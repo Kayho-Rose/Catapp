@@ -1,7 +1,7 @@
 html, body {
     margin: 0;
     padding: 0;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Roboto Mono', sans-serif;
     background-color: #94b2f0;
     color: #061328;
     user-select: none;
@@ -29,9 +29,11 @@ input {
     text-align: center;
     font-family: 'Rubik', sans-serif;
     margin: 10px 0;
+    font-family: inherit;
 }
 
 button {
+    font-family: inherit;
     color: #FDFDFD;
     background-color: #329bd0;
     border: 0;
